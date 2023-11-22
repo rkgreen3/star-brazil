@@ -1,7 +1,7 @@
 from twilio.rest import Client
 
-account_sid = 'AC40483de0d36771e4deb7745725cbc0b5'
-auth_token = 'f3ebd75fd9317c87bab732accd4827fd'
+account_sid = 'enter here'
+auth_token = 'enter here'
 client = Client(account_sid, auth_token)
 
 file1 = open('cc1_reminder_list.csv', 'r')
