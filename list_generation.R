@@ -9,7 +9,7 @@ if (!require(c("dplyr", "redcapAPI", "lubridate"))) {
 
 # Import REDCap data via API
 #key_set('star_enroll_cc')
-api_token <- '5195030B978456E315A81A291D5FEB1D'
+api_token <- 'insert token here'
 api_url <- 'https://redcap.iths.org/api/'
 project <- redcapAPI:::redcapConnection(url = api_url, token = api_token)
 
