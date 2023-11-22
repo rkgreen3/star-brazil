@@ -1,0 +1,2 @@
+C:\Users\rgreen\R-4.1.2\bin\x64\RScript.exe -e "source('list_generation_reminder_updated.R')"
+python reminder.py
